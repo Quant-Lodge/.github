@@ -87,8 +87,8 @@ about point-in-time data. Open an issue, or come argue with us in the lodge.
 
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20lodge-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MHA5hFdWHS)
 
-**It's a small room, on purpose.** No signal groups, no "what's your entry".
-Data problems, backtest post-mortems and screenshots of things that broke.
+**Free and open to anyone.** No signal groups, no "what's your entry" — data
+problems, backtest post-mortems and screenshots of things that broke.
 
 ---
 
